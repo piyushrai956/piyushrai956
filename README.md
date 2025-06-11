@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Piyush Rai
+  # 👋 Hi, I'm Piyush Rai
 
 🎓 BCA in Data Science @ Dev Bhoomi Uttarakhand University  
 📍 Greater Noida West, NCR(UP), India | He/Him  
@@ -20,6 +20,9 @@
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=mysql&logoColor=white)
 
 **Tools & Tech:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
