@@ -10,22 +10,26 @@
 
 - 🚀 Aspiring Data Scientist | Curious Coder  
 - 💡 Interested in ML, Python, and automation  
-- 🔧 Working with C, C++, Python, R & Blender  
+- 🔧 Working with C, C++, Python, R, MySQL & Blender  
 - 🎮 Dabbling in Unity for fun game projects
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages:**  
+**Languages & Scripting:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=mysql&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell-121011?style=flat&logo=gnu-bash&logoColor=white)
 
 **Tools & Tech:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell-121011?style=flat&logo=gnu-bash&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-42B029?style=flat&logo=anaconda&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 
